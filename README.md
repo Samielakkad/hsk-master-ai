@@ -47,3 +47,8 @@ This repository holds the **product concept and specification**. It sits in a po
 
 **Sami El Akkad** — AI master's @ Tsinghua SIGS · founder · HSK 4 (90/100).
 📫 [sam25@mails.tsinghua.edu.cn](mailto:sam25@mails.tsinghua.edu.cn) · [LinkedIn](https://www.linkedin.com/in/samielakkad)
+
+
+---
+
+**License — All rights reserved.** This repository is shared for review only. Please **contact me before using any part of it** for any purpose. See [LICENSE](LICENSE).
