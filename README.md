@@ -6,6 +6,7 @@
 
 **Product concept & spec** · by [Sami El Akkad](https://github.com/Samielakkad)
 
+[![AI + EdTech](https://img.shields.io/badge/AI%20%2B-EdTech-8A2BE2)](#)
 [![Domain](https://img.shields.io/badge/domain-edtech%20·%20language%20learning-2E86AB)](#)
 [![Market](https://img.shields.io/badge/market-HSK%20·%2040M%2B%20attempts%2Fyr-A3BE8C)](#)
 [![Status](https://img.shields.io/badge/status-product%20concept-orange)](#)
